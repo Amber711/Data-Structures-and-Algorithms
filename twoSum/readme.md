@@ -23,7 +23,7 @@ function twoSum(nums, target) {
 	let len = nums.length;
 	let remain;
 
-	for(let i = 0; i < len, i++) {
+	for(let i = 0; i < len; i++) {
 		remain = target - nums[i];
 
 		if(remainMap.hasOwnProperty(nums[i])) {

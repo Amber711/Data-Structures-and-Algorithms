@@ -1,4 +1,4 @@
-# 2 Sum
+# 2 Sum. March 20th, 2018
 
 ### Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
